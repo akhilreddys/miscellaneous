@@ -1,3 +1,4 @@
 USEFUL STUFF:
 Download The GNU netcat from SourceForge.net : https://sourceforge.net/projects/netcat/files/netcat/0.7.1/netcat-0.7.1.tar.bz2/download
 netcat-0.7.1.tar.bz2 : https://newcontinuum.dl.sourceforge.net/project/netcat/netcat/0.7.1/netcat-0.7.1.tar.bz2
+VBA TOOLS: https://www.decalage.info/vba_tools
